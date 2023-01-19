@@ -1,6 +1,6 @@
 # pengin-pi
 PENGIN PI!
-Is a copyright of Tobu Pengin, 2022.
+Is a copyright of Tobu Pengin, 2023.
 
 Pengin Pi is GPL3 licensed and is maintained and supported by Tobu Pengin and a hand picked community of interns and volunteers.  The software is designed, by default, to be a docker containerized CRM, Customer Relationship Manager, with a lightweight and easily extended back-end with the makings of a decent ERP system.  Think of this project as a cloud software variation of the Rasberry Pi hardware platform, utilitarian and customizable.  POS's core features are:
 
